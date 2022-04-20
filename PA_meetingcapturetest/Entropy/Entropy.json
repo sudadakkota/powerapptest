@@ -65,7 +65,6 @@
     "BannerText": 113,
     "BtnChangeAuto": 43,
     "BtnStartMeeting": 44,
-    "Button1": 32,
     "Camera1": 117,
     "CameraBanner": 124,
     "CameraNavBar": 123,
@@ -344,7 +343,7 @@
     "WelcomeScreenTitle": 35
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "04/20/2022 06:44:14",
+  "HeaderLastSavedDateTimeUTC": "04/20/2022 06:45:08",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
@@ -772,7 +771,6 @@
     "BannerText": 84,
     "BtnChangeAuto": 11,
     "BtnStartMeeting": 12,
-    "Button1": 0,
     "Camera1": 90,
     "CameraBanner": 89,
     "CameraNavBar": 88,

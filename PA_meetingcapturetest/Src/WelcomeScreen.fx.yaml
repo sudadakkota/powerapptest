@@ -267,10 +267,3 @@ WelcomeScreen As screen:
         Y: =146
         ZIndex: =6
 
-    Button1 As button:
-        OnSelect: =Exit()
-        Text: ="ボタン"
-        X: =40
-        Y: =40
-        ZIndex: =7
-
