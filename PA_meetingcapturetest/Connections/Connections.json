@@ -1,6 +1,6 @@
 {
   "0709996f-842f-4d9b-9d21-618afede1a91": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_onenote/connections/598bfb217d1f40c6aa405223c78018c5",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_onenote/connections/4867e4eaa33e47d5808bb8731068b51b",
     "connectionParameters": {
       "sku": "Enterprise"
     },
@@ -21,7 +21,7 @@
     "id": "0709996f-842f-4d9b-9d21-618afede1a91"
   },
   "5867dfa2-c11f-4590-8528-e575cc1e8f82": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_planner/connections/890737951b23435b84d9caff3203a9eb",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_planner/connections/23ca268a3ed84c80abd31bd1cc6cd6f7",
     "connectionParameters": {
       "sku": "Enterprise"
     },
@@ -42,7 +42,7 @@
     "id": "5867dfa2-c11f-4590-8528-e575cc1e8f82"
   },
   "6b2de656-facb-41aa-b502-bb84e6da4768": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_office365users/connections/8ccd012866e44b0a828bd25d25ba0f1d",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_office365users/connections/4246f3bdef494a9ab5f2535079ff7da8",
     "connectionParameters": {
       "sku": "Enterprise"
     },
@@ -63,7 +63,7 @@
     "id": "6b2de656-facb-41aa-b502-bb84e6da4768"
   },
   "b84d29d0-5308-4b11-89e9-65a038c53cff": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_office365/connections/accd702c9014406d937a648cb9b16720",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_office365/connections/a136ec9d6ec44f4f916fc60a9723a35f",
     "connectionParameters": {
       "sku": "Enterprise"
     },

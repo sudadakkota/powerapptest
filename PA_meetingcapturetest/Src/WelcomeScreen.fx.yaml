@@ -54,7 +54,7 @@ WelcomeScreen As screen:
         PressedColor: =WelcomeScreenTitle.Color
         PressedFill: =WelcomeScreenTitle.Fill
         Size: =27
-        Text: ="ミーテイングキャプチャにようこそ！"
+        Text: ="ようこそ"
         Width: =689
         X: =340+0
         Y: =226+0
